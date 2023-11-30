@@ -1,0 +1,1 @@
+type CurrencySymbolType = 'usd' | 'eur' | 'gbp' | 'cny' | 'jpy'

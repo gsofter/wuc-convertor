@@ -1,0 +1,8 @@
+.fc-header-toolbar.fc-toolbar .fc-toolbar-chunk button{
+    background: theme('colors.primary');
+
+    border-color: theme('colors.cyan.800');
+    &.fc-button-active {
+        background: theme('colors.cyan.600');
+    }
+}

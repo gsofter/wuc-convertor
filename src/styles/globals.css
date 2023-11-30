@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.base-container {
+  @apply mx-auto max-w-7xl px-2 sm:px-4 lg:px-8;
+}
+.page-container {
+  @apply base-container flex flex-col my-0 py-4;
+}

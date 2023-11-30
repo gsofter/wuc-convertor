@@ -1,0 +1,5 @@
+
+
+type WucPriceResponseType = {
+  value: number
+}
